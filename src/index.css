@@ -9,6 +9,3 @@ body {
 .flex-item {
   flex-grow: 1;
 }
-#user-information {
-  text-align: center;
-}
